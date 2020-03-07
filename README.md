@@ -6,6 +6,6 @@ I very much prefer the command line.
 
 I have added another line
 
-It s really crazy
+It's really crazy
 
 This is yet another line just to test
